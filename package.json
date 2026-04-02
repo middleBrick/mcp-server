@@ -1,0 +1,33 @@
+{
+  "name": "@middlebrick/mcp-server",
+  "version": "0.1.0",
+  "description": "MCP server for middleBrick API security scanning",
+  "type": "module",
+  "bin": {
+    "middlebrick-mcp": "dist/index.js"
+  },
+  "main": "dist/index.js",
+  "files": ["dist"],
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "@middlebrick/api-client": "^0.1.0",
+    "@modelcontextprotocol/sdk": "^1.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "vitest": "^3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/middleBrick/mcp-server.git"
+  },
+  "homepage": "https://middlebrick.com",
+  "keywords": ["mcp", "api-security", "owasp", "vulnerability-scanner", "llm-security", "middlebrick"],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
