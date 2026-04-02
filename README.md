@@ -80,4 +80,4 @@ Get your API key at: [middlebrick.com/dashboard](https://middlebrick.com/dashboa
 
 ## License
 
-MIT — [Zevlat Intelligence](https://zev.lat)
+Apache 2.0 — [middleBrick](https://middlebrick.com)
