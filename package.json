@@ -26,6 +26,7 @@
   },
   "homepage": "https://middlebrick.com",
   "keywords": ["mcp", "api-security", "owasp", "vulnerability-scanner", "llm-security", "middlebrick"],
+  "mcpName": "io.github.middlebrick/mcp-server",
   "license": "Apache-2.0",
   "engines": {
     "node": ">=18"
