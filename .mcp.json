@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "middlebrick": {
+      "command": "npx",
+      "args": ["-y", "@middlebrick/mcp-server"],
+      "env": {
+        "MIDDLEBRICK_API_KEY": "your-api-key"
+      }
+    }
+  }
+}
