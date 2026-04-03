@@ -1,6 +1,6 @@
 {
   "name": "@middlebrick/mcp-server",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "MCP server for middleBrick API security scanning",
   "type": "module",
   "bin": {
@@ -26,7 +26,7 @@
   },
   "homepage": "https://middlebrick.com",
   "keywords": ["mcp", "api-security", "owasp", "vulnerability-scanner", "llm-security", "middlebrick"],
-  "mcpName": "io.github.middlebrick/mcp-server",
+  "mcpName": "io.github.middleBrick/mcp-server",
   "license": "Apache-2.0",
   "engines": {
     "node": ">=18"

@@ -1,17 +1,17 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.middlebrick/mcp-server",
-  "description": "MCP server for middleBrick API security scanning — scan APIs for OWASP Top 10, LLM, and GraphQL vulnerabilities from Claude, Cursor, or any MCP-compatible client.",
+  "name": "io.github.middleBrick/mcp-server",
+  "description": "Scan APIs for OWASP Top 10, LLM, and GraphQL security vulnerabilities.",
   "repository": {
     "url": "https://github.com/middleBrick/mcp-server",
     "source": "github"
   },
-  "version": "0.1.1",
+  "version": "0.1.2",
   "packages": [
     {
       "registryType": "npm",
       "identifier": "@middlebrick/mcp-server",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "transport": {
         "type": "stdio"
       },
